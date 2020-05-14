@@ -8,7 +8,7 @@ Add a brief description about your repo that is memorable and explains what your
 
 <!--- If your project includes a visualation or any images or an App please include a screenshot in this README --->
 
-![How to find the Cody ID](screenshot.png)
+![screenshot](screenshot.png)
 
 ## Setup 
 To Run:
