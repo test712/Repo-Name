@@ -35,7 +35,7 @@ Before proceeding, ensure that the below products are installed:
 * [Product1](https://url-to-product1) 
 
 
-Please see the [documentation](Documentation/Installation.md) for detailed installation instructions. 
+Please see the [documentation](Documentation/) for detailed installation instructions. 
 <!--- Make sure you have a Installation.md document in the Documentation folder if you are to follow this formatting --->
 
 1. Step 1
