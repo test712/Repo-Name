@@ -36,7 +36,7 @@ Before proceeding, ensure that the below products are installed:
 
 
 Please see the [documentation](Documentation/) for detailed installation instructions. 
-<!--- Make sure you have a Installation.md document in the Documentation folder if you are to follow this formatting --->
+<!--- Make sure you have a Documentation folder if you follow this template.  You can choose your own formatting such as linking directly to an Installation document [documentation](Documentation/Installation.md) --->
 
 1. Step 1
 2. Step 2
