@@ -74,7 +74,6 @@ Include any other License information here, including third-party content using 
 
 
 ## Community Support
-`https://www.mathworks.com/matlabcentral/`
 [MATLAB Central](https://www.mathworks.com/matlabcentral)
 
 
