@@ -58,7 +58,7 @@ Information about Getting Started
 
 
 ## Examples
-To learn how to use this in testing workflows, see [Examples](/examples/). 
+To learn how to use this in testing workflows, see [Examples](/Examples/). 
 <!--- Make sure you have a repo set up correctly if you are to follow this formatting --->
 
 ## License
