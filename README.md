@@ -70,6 +70,9 @@ or
 
 The license for <insert repo name> is available in the [License.txt](License.txt) file in this GitHub repository.
 
+or
+
+This project is licensed under the <insert license name> License - see the [License.txt](License.txt) file for details
 
 Include any other License information here, including third-party content using separate license agreements 
 
