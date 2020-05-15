@@ -44,7 +44,7 @@ Please see the [documentation](Documentation/) for detailed installation instruc
 
 ## Deployment Steps (Optional) 
 
-To view instructions for deploying <insert repo name>, select a MATLAB release: 
+To view instructions for deploying [insert repo name], select a MATLAB release: 
 <!--- This is for Repos that utillize Releases in GitHub --->
 
 | Release |
@@ -85,7 +85,7 @@ Copyright 2020 The MathWorks, Inc.
 
 
 <!--- Do not forget to the add the SECURITY.md to this repo --->
-<!--- Add Topics #Topics to your Repo such as #MATLAB  --->
+<!--- Add Topics #Topics to your Repo such as #MATLAB.  You can do this withing the Description section of this GitHub repo  --->
 
 
 
