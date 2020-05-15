@@ -81,7 +81,7 @@ Include any other License information here, including third-party content using 
 [MATLAB Central](https://www.mathworks.com/matlabcentral)
 
 
-Copyright 2020 The MathWorks, Inc.
+Copyright 2020 The MathWorks, Inc.  [SHOULD WE HAVE THIS IN THE TEMPLATE????]
 
 
 <!--- Do not forget to the add the SECURITY.md to this repo --->
