@@ -63,9 +63,9 @@ To learn how to use this in testing workflows, see [Examples](/Examples/).
 <!--- Make sure you have the repo set up correctly if you are to follow this formatting --->
 
 ## License
-<!--- Make sure you have a License.txt within your Repo --->
+<!--- Make sure you have a LICENSE file within your Repo --->
 
-This project is licensed under the [insert license name] <insert license name> License - see the [License.txt](License.txt) file for details
+This project is licensed under the [insert license name] <insert license name> License - see the [LICENSE](LICENSE) file for details
 
 <!--- Include any other License information here, including third-party content using separate license agreements --->
  
