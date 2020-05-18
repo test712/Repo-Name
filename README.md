@@ -67,7 +67,8 @@ To learn how to use this in testing workflows, see [Examples](/Examples/).
 
 This project is licensed under the [insert license name] <insert license name> License - see the [License.txt](License.txt) file for details
 
-Include any other License information here, including third-party content using separate license agreements 
+<!--- Include any other License information here, including third-party content using separate license agreements --->
+ 
 
 
 ## Community Support
