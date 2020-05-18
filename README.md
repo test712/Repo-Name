@@ -64,13 +64,6 @@ To learn how to use this in testing workflows, see [Examples](/Examples/).
 
 ## License
 <!--- Make sure you have a License.txt within your Repo --->
-LICENSE NAME © 2020 The MathWorks, Inc.
-
-or
-
-The license for <insert repo name> is available in the [License.txt](License.txt) file in this GitHub repository.
-
-or
 
 This project is licensed under the [insert license name] <insert license name> License - see the [License.txt](License.txt) file for details
 
@@ -81,7 +74,7 @@ Include any other License information here, including third-party content using 
 [MATLAB Central](https://www.mathworks.com/matlabcentral)
 
 
-Copyright 2020 The MathWorks, Inc.  [SHOULD WE HAVE THIS IN THE TEMPLATE????]
+Copyright 2020 The MathWorks, Inc.
 
 
 <!--- Do not forget to the add the SECURITY.md to this repo --->
