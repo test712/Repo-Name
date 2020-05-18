@@ -42,16 +42,7 @@ Please see the [documentation](Documentation/) for detailed installation instruc
 1. Step 1
 2. Step 2
 
-## Deployment Steps (Optional) 
 
-To view instructions for deploying [insert repo name], select a MATLAB release: 
-<!--- This is for Repos that utillize Releases in GitHub --->
-
-| Release |
-| ------- |
-| [R2020a](releases/R2020a/README.md) |
-| [R2019b](releases/R2019b/README.md) |
-| [R2019a\_and\_older](releases/R2019a_and_older/README.md) |
 
 ## Getting Started 
 Information about Getting Started
